@@ -47,9 +47,10 @@ while True:
     
 # OUTPUT :
 # CLIENT OUTPUT :
-![EX-04 CLIENT](https://github.com/Kalpanareshma/EX-4/assets/122040453/28c7b3ff-e2cd-4f67-9115-614292fefafe)
+![ex04 client output](https://github.com/Kalpanareshma/EX-4/assets/122040453/0afd0dd9-35bd-4b75-ba63-91374d84aaf3)
 # SERVER OUTPUT :
-![EX-04 SERVER](https://github.com/Kalpanareshma/EX-4/assets/122040453/b0ce82e5-1f7d-4504-8e24-c2bfe15fcdaf)
+![ex04 server output](https://github.com/Kalpanareshma/EX-4/assets/122040453/6039266d-02dd-4534-b8ab-b065244ca041)
+
 # RESULT :
 Thus, the python program for simulating ARP protocols using TCP was successfully executed.
 
